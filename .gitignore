@@ -1,2 +1,9 @@
+.bsp
+.idea
+target
+tmp
+
+.DS_Store
+
 *.class
 *.log
